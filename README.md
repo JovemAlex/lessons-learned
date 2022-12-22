@@ -3,5 +3,5 @@
 
 <h2>Tecnologias utilizadas: </h2>
 
-<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'></img>
-<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'></img>
+<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' alt="HTML5"></img>
+<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt="CSS3"></img>
